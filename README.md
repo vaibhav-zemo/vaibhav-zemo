@@ -4,18 +4,17 @@
 [![LeetCode Badge](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/Vaibhav_Pathak_20/)
 [![CodeChef Badge](https://img.shields.io/badge/Codechef-%23B92B27.svg?&style=for-the-badge&logo=Codechef&logoColor=white)](https://www.codechef.com/users/vaibhav20458)
 [![HackerRank Badge](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/vaibhavpathak851)
-  
+
 ### Glad to see you here! &nbsp; ![](https://komarev.com/ghpvc/?username=vaibhav-zemo&label=Profile%20views&color=0e75b6&style=flat-square)
 
 A self-taught MERN Stack Developer & Competitive Programmer, I always enjoyed discovering new exciting technologies, automating things, and finding solutions to things using technology. I'm currently into Web Development 🕸️ and working on my Data Structures and Algorithms.
-  
 
 ### 🗣 Talking about Personal Stuffs:
 
 - 🛠 &nbsp; I'm currently learning Data Structure and Algorithms and Competitive Programming.
 - 🚀 &nbsp; I’m currently exploring [Blockchain](https://blockchain.com).
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/vaibhav-zemo).
-- 📫 &nbsp; How to reach me: vaibhavpathak852947@gmail.com 
+- 📫 &nbsp; How to reach me: vaibhavpathak852947@gmail.com
 
 ### My Absolute Favorites: <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="40">
 
@@ -38,37 +37,35 @@ A self-taught MERN Stack Developer & Competitive Programmer, I always enjoyed di
 <code><img width="4%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"></code>
 <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/></code>
 <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/></code>
-<code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/redis/redis.png" alt="redis"></code> 
-</code> 
+<code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/redis/redis.png" alt="redis"></code>
+</code>
 <code><img width="4%" src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg"></code>
 
-
-I've done a ton of [projects](https://github.com/vaibhav-zemo?tab=repositories&type=source) involving various stacks and technologies, 
-View my [resume](https://drive.google.com/file/d/1vJ9qXsBHc9C9a6kYU7RpO6YkqXuycygh/view?usp=share_link), 
-Ask me anything, at [email](mailto:vaibhavpathak852947@gmail.com). 
+I've done a ton of [projects](https://github.com/vaibhav-zemo?tab=repositories&type=source) involving various stacks and technologies,
+View my [resume](https://drive.google.com/file/d/1vJ9qXsBHc9C9a6kYU7RpO6YkqXuycygh/view?usp=share_link),
+Ask me anything, at [email](mailto:vaibhavpathak852947@gmail.com).
 <br>
 Happy Coding, my brothers! 💪🏽 <br>
 
-### Projects and Dev Stuffs: 
+### Projects and Dev Stuffs:
 
  <summary><b>⚡ Github Stats</b></summary>
+ <br></br>
 
  <img style="border-radius:10px" src="https://github-readme-stats.vercel.app/api?username=vaibhav-zemo&show_icons=true&theme=radical" />
 
 <img style="border-radius:10px" src="https://github-readme-streak-stats.herokuapp.com/?user=vaibhav-zemo&show_icons=true&theme=radical" />
-
 
 <details>	
   <br />
   <summary><b>⚙️ Things I use to get stuff done</b></summary>
   	<ul>
   	  <li><b>OS:</b> Windows / Linux</li>
-  	  <li><b>Browser: </b> Chrome / Brave Browser</li>
+  	  <li><b>Browser: </b> Chrome / Windows Edge</li>
 	  <li><b>Code Editor:</b> Visual Studio Code</li>
-	  <li><b>To Stay Updated:</b> Dev.to, Medium, Twitter and Tech YouTube Channels</li>
+	  <li><b>To Stay Updated:</b> Dev.to, Medium and Tech YouTube Channels</li>
 	</ul>
-</details> 
-
+</details>
 
 ---
 
