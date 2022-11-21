@@ -58,11 +58,19 @@ Happy Coding, my brothers! 💪🏽 <br>
 
 <summary><b> Holopin Badge Board </b></summary>
 <br></br>
-[![@vaibhav's Holopin board](https://holopin.io/api/user/board?user=vapking01)](https://holopin.io/@vapking01)
+
+[![@vapking01's Holopin board](https://holopin.me/vapking01)](https://holopin.io/@vapking01)
+
 <summary><b> LeetCode Stats </b></summary>
 <br></br>
 
 ![](https://leetcard.jacoblin.cool/Vaibhav_Pathak_20/?ext=heatmap)
+
+### Watch my contribution graph get eaten by the snake 🐍
+
+<!-- platane/snk works, it just puts it on a new branch -->
+![vaibhav-zemo snake gif](https://github.com/vaibhav-zemo/vaibhav-zemo/blob/output/github-contribution-grid-snake.svg)
+
 <details>	
   <br />
   <summary><b>⚙️ Things I use to get stuff done</b></summary>
