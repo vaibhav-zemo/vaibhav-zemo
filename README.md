@@ -69,7 +69,7 @@ Happy Coding, my brothers! 💪🏽 <br>
 ### Watch my contribution graph get eaten by the snake 🐍
 
 <!-- platane/snk works, it just puts it on a new branch -->
-![vaibhav-zemo snake gif](https://github.com/vaibhav-zemo/vaibhav-zemo/blob/output/github-contribution-grid-snake.svg)
+ ![Snake animation](https://github.com/eagrundy/eagrundy/blob/output/github-contribution-grid-snake.svg)
 
 <details>	
   <br />
