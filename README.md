@@ -56,6 +56,13 @@ Happy Coding, my brothers! 💪🏽 <br>
 
 <img style="border-radius:10px" src="https://github-readme-streak-stats.herokuapp.com/?user=vaibhav-zemo&show_icons=true&theme=radical" />
 
+<summary><b> Holopin Badge Board </b></summary>
+<br></br>
+[![@vaibhav's Holopin board](https://holopin.io/api/user/board?user=vapking01)](https://holopin.io/@vapking01)
+<summary><b> LeetCode Stats </b></summary>
+<br></br>
+
+![](https://leetcard.jacoblin.cool/Vaibhav_Pathak_20/?ext=heatmap)
 <details>	
   <br />
   <summary><b>⚙️ Things I use to get stuff done</b></summary>
