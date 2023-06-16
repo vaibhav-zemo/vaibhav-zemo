@@ -64,7 +64,7 @@ Happy Coding, my brothers! 💪🏽 <br>
 <summary><b> LeetCode Stats </b></summary>
 <br></br>
 
-![](https://leetcard.jacoblin.cool/Vaibhav_Pathak_20/?ext=heatmap)
+![](https://leetcard.jacoblin.cool/VapKing/?ext=heatmap)
 
 ### Watch my contribution graph get eaten by the snake 🐍
 
