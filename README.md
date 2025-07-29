@@ -11,8 +11,7 @@ A self-taught MERN Stack Developer & Competitive Programmer, I always enjoyed di
 
 ### 🗣 Talking about Personal Stuffs:
 
-- 🛠 &nbsp; I'm currently learning Data Structure and Algorithms and Competitive Programming.
-- 🚀 &nbsp; I’m currently exploring [Blockchain](https://blockchain.com).
+- 🛠 &nbsp; I'm currently learning to build scalable, secure, and high-performance applications.
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/vaibhav-zemo).
 - 📫 &nbsp; How to reach me: vaibhavpathak852947@gmail.com
 
